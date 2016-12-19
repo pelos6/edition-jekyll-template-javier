@@ -1,7 +1,7 @@
 ---
 title: programacion utilidades
 author: javier
-category: base_de_datos
+category: "base de datos"
 order: 1
 ---
 
