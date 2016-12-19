@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: "Tablero de control"
+title: "Tablero de control javier"
 url: "https://long-pig.cloudvent.net"
 baseurl:
 google_analytics_key:
@@ -11,7 +11,7 @@ show_full_navigation: true
 logo: /siteicon.png
 description: Documentación de un intento de tablero de control de todas las aplicaciónes que llevo en el curro
 author:
-  name:
+  name: javier
   email:
   twitter: # twitter username without the @ symbol
 social:
