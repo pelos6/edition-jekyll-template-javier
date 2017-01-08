@@ -13,7 +13,7 @@ Documentar el tablero de control tal y como lo tengo ahora y las futuras modific
 * en `_config.yml` es necesario seguir unas estrictas reglas de [validación](https://help.github.com/articles/page-build-failed-config-file-error/) pues de otra forma no se generan las páginas y a veces llega un correo a hotmail con la indicación del error.
   * por ejemplo no se usan espaciós y si tabulaciones
   
-    ```
+    ```yaml
     author:  
        name: javier  
        email:  
