@@ -25,7 +25,8 @@ social:
 permalink: pretty
 
 # intento que funcione como el renderizado de codigo en GFM
-pygments: true
+# pero no lo soporta github pages
+# pygments: true
 
 
 gems:
