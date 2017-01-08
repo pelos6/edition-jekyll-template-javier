@@ -27,13 +27,5 @@ author:
  twitter: # twitter username without the @ symbol  
 ```
 
-
-{% highlight ruby %}
-author:  
- name: javier  
- email:  
- twitter: # twitter username without the @ symbol  
-{% endhighlight %}
-
   * author no admite valor y para indicar que name, email twitter ... son atributos de author se deja una tabulación 
 
