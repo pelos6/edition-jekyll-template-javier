@@ -24,6 +24,10 @@ social:
 
 permalink: pretty
 
+# intento que funcione como el renderizado de codigo en GFM
+pygments: true
+
+
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
