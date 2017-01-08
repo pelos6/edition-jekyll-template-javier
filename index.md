@@ -20,12 +20,5 @@ author:
  twitter: # twitter username without the @ symbol  
 ```
 
-```ruby
-author:  
- name: javier  
- email:  
- twitter: # twitter username without the @ symbol  
-```
-
   * author no admite valor y para indicar que name, email twitter ... son atributos de author se deja una tabulación 
 
