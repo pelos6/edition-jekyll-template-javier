@@ -20,6 +20,14 @@ author:
  twitter: # twitter username without the @ symbol  
 ```
 
+```ruby
+author:  
+ name: javier  
+ email:  
+ twitter: # twitter username without the @ symbol  
+```
+
+
 {% highlight ruby %}
 author:  
  name: javier  
