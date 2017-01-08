@@ -11,7 +11,7 @@ Documentar el tablero de control tal y como lo tengo ahora y las futuras modific
     >  category: "base de datos"
 
 * en `_config.yml` es necesario seguir unas estrictas reglas de [validación](https://help.github.com/articles/page-build-failed-config-file-error/) pues de otra forma no se generan las páginas y a veces llega un correo a hotmail con la indicación del error.
-  * por ejemplo no de usan espaciós y si tabulaciones
+  * por ejemplo no se usan espaciós y si tabulaciones
   
     > author:  
        name: javier  
@@ -19,5 +19,5 @@ Documentar el tablero de control tal y como lo tengo ahora y las futuras modific
        twitter: # twitter username without the @ symbol  
 
    
-  * author no admite valor 
+  * author no admite valor y para indicar que name, email twitter ... son atributos de author se deja una tabulación 
 
